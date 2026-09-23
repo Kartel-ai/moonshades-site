@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Moonshades">
+  <defs>
+    <linearGradient id="lens" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#E4C870"/>
+      <stop offset="0.55" stop-color="#C9A84C"/>
+      <stop offset="1"    stop-color="#8A6D26"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="#C9A84C" stroke-width="4.2" stroke-linecap="round">
+    <path d="M3 18 L8 23"/>
+    <path d="M61 18 L56 23"/>
+    <path d="M28.5 27 q3.5 -4 7 0"/>
+  </g>
+  <rect x="3"  y="21" width="26" height="22" rx="7" fill="url(#lens)"/>
+  <rect x="35" y="21" width="26" height="22" rx="7" fill="url(#lens)"/>
+</svg>
